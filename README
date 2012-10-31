@@ -1,0 +1,9 @@
+## Démarrer en développement pour tester :
+
+    jeckyll --server
+
+## Mettre en ligne la dernière version
+
+    git add .
+    git commit -am "changements"
+    git push origin gh-pages
