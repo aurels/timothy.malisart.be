@@ -2,6 +2,8 @@
 
     jeckyll --server
 
+localhost:4000
+
 ## Mettre en ligne la dernière version
 
     git add .
